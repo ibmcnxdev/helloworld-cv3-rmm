@@ -2,9 +2,9 @@
 "extensions": [{
 "payload": {
 "match": {
-"user-email": ["elisa.nunez@cv3.biz"]
+"user-email": ["randy.mendez@cv3.biz"]
 },
-"include-files": ["ejemplo02/HelloWorld_enm.js"],
+"include-files": ["HelloWorldTest_RMM.js"],
 "include-repo": {
 "name": "homepage-customization"
 }
