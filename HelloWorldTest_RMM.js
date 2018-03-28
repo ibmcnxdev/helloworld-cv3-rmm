@@ -24,7 +24,7 @@ dojo.query("span.shareSome-title")[0].textContent = "Hello " + thisUser + "-";
 var updatesDescription=document.getElementById("asDesc"); //change the description
 var originalText=updatesDescription.textContent;
 updatesDescription.textContent="Hello Customizer:" + originalText;
-updatesDescription.style="color:#ff0000";
+updatesDescription.style="color:#808000";
 }, ".lotusStreamTopLoading div.loaderMain.lotusHidden");
 } catch(e) {
 alert("Exception ocurred in helloWorld: " + e);
