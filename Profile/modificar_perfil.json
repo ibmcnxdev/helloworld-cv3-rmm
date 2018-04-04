@@ -1,7 +1,7 @@
 {
 "extensions": [{
 "payload": {
-"include-files": ["Modify_profile_User.js"],
+"include-files": ["Profile/Modify_profile_User.js"],
 "include-repo": {
 "name": "helloworld-cv3-rmm"
 }
