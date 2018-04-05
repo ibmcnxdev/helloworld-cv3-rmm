@@ -1,0 +1,23 @@
+{
+  "name": "Homepage Customization",
+  "title": "Global CSS Layout",
+  "description": "Overall customer specific colors and layouts",
+  "services": [
+    "Customizer"
+  ],
+  "extensions": [
+    {
+      "payload": {
+        "include-files": [
+          "Global-Layout Test/Customer-ui.js"
+        ],
+	      "include-repo":{
+	       "name": "helloworld-cv3-rmm"
+	     }
+      },
+      "name": "gloabl CSS customizations",
+      "type": "com.ibm.customizer.ui",
+      "path": "homepage"
+    }
+  ]
+}
