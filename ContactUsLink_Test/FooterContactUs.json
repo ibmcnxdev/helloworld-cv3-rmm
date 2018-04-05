@@ -1,0 +1,26 @@
+{
+  "name": "Homepage Footer Contact Us Link Customization",
+  "title": "Footer Contact Us Link Customization",
+  "description": "Replace Footer Contact Us Link with a different mailto address",
+  "services": [
+    "Customizer"
+  ],
+  "extensions": [
+    {
+      "payload": {
+	    "match": { 
+		  "user-email": ["randy.mendez@cv3.biz"] 
+			},
+        "include-files": [
+          "ContactUsLink-Test/ReplaceFooterContactUsLink.js"
+        ],
+	      "include-repo":{
+	       "name": "helloworld-cv3-rmm"
+	     }
+      },
+      "name": "Footer Contact Us Link Extension",
+      "type": "com.ibm.customizer.ui",
+      "path": "homepage"
+    }
+  ]
+}
