@@ -8,6 +8,9 @@
   "extensions": [
     {
       "payload": {
+	"match": { 
+	  "user-email": ["randy.mendez@cv3.biz"] 
+		 },
         "include-files": [
           "Global-Layout Test/Customer-ui.js"
         ],
