@@ -12,7 +12,7 @@
 	  "user-email": ["randy.mendez@cv3.biz"] 
 		 },
         "include-files": [
-          "Global-Layout Test/color-modification.js"
+          "Global-Layout Test/color_modification.js"
         ],
 	      "include-repo":{
 	       "name": "helloworld-cv3-rmm"
