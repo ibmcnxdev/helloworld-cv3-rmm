@@ -1,6 +1,6 @@
 {
-  "name": "Homepage Footer Contact Us Link Customization",
-  "title": "Footer Contact Us Link Customization",
+  "name": "Homepage Footer Contact Us Link Customization RJMM",
+  "title": "RJMM Footer Contact Us Link Customization",
   "description": "Replace Footer Contact Us Link with a different mailto address",
   "services": [
     "Customizer"
@@ -18,7 +18,7 @@
 	       "name": "helloworld-cv3-rmm"
 	     }
       },
-      "name": "Footer Contact Us Link Extension",
+      "name": "Footer Contact Us Link Extension RJMM",
       "type": "com.ibm.customizer.ui",
       "path": "homepage"
     }
