@@ -1,4 +1,12 @@
-# Modify profile
-This repository is a test.
+# Some Test to modify IBM Connections
 
-This repository will modify the user profile by adding a banner and changing the style.
+
+These are tests for the modification of IBM Connections.
+
+ PROFILE:
+
+   The objective of this test is to change the design of the user profile.
+
+ GLOBAL LAYOUT:  
+
+   The objective of this test is to add color to the homepage
