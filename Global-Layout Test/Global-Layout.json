@@ -18,7 +18,7 @@
 	       "name": "helloworld-cv3-rmm"
 	     }
       },
-      "name": "gloabl CSS customizations",
+      "name": "Layout and colors RMM",
       "type": "com.ibm.customizer.ui",
       "path": "homepage"
     }
