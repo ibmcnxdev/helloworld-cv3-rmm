@@ -1,6 +1,6 @@
 {
-  "name": "Homepage Customization",
-  "title": "Global CSS Layout",
+  "name": "Layout and colors RMM",
+  "title": "RJMM Layout and colors homepage",
   "description": "Overall customer specific colors and layouts",
   "services": [
     "Customizer"
@@ -12,7 +12,7 @@
 	  "user-email": ["randy.mendez@cv3.biz"] 
 		 },
         "include-files": [
-          "Global-Layout Test/Customer-ui.js"
+          "Global-Layout Test/color-modification.js"
         ],
 	      "include-repo":{
 	       "name": "helloworld-cv3-rmm"
